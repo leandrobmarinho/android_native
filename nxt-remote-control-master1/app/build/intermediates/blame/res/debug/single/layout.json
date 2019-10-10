@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/layout/main_tank.xml",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/layout/main_tank.xml"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/layout/main_touchpad.xml",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/layout/main_touchpad.xml"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/layout/main_tank3motor.xml",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/layout/main_tank3motor.xml"
+    }
+]

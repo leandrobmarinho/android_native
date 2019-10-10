@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/up_arrow.png",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/drawable-hdpi/up_arrow.png"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_touchpad.png",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/drawable-hdpi/ic_menu_touchpad.png"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_buttons.png",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/drawable-hdpi/ic_menu_buttons.png"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/right_arrow.png",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/drawable-hdpi/right_arrow.png"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_tank.png",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/drawable-hdpi/ic_menu_tank.png"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/down_arrow.png",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/drawable-hdpi/down_arrow.png"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_tank3motor.png",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/drawable-hdpi/ic_menu_tank3motor.png"
+    },
+    {
+        "merged": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/left_arrow.png",
+        "source": "/Users/leandrobm/AndroidStudioProjects/nxt-remote-control-master1/app/src/main/res/drawable-hdpi/left_arrow.png"
+    }
+]

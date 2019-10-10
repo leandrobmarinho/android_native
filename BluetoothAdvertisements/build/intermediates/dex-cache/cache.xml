@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes-dca9ca6cd76bbfd8b8bb08672eac7e826ff8b54d.jar" />
+    </item>
+    <item
+        jar="/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes-3d9097aab735c886331afaf09b3adf5f60dbc3e1.jar" />
+    </item>
+    <item
+        jar="/Users/leandrobm/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-1ae051faf999ff620c12964450b5f8c13d4b4dd5.jar" />
+    </item>
+    <item
+        jar="/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-258faca0575ec849c3ca412af7209f56b9638717.jar" />
+    </item>
+    <item
+        jar="/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-fef72399c8c3a97f0909e1f14bf633bc3d6d8488.jar" />
+    </item>
+    <item
+        jar="/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes-a2d27e91f144d45f1dc6cf510770e81e9c62bf97.jar" />
+    </item>
+
+</items>

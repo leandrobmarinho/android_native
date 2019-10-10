@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/src/main/res/values-v21/base-colors.xml -->
+    <eat-comment/>
+    <color name="colorPrimary">#434AB3</color>
+    <color name="colorPrimaryDark">#34379D</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <!-- From: file:/Users/leandrobm/AndroidStudioProjects/BluetoothAdvertisements/Application/src/main/res/values-v21/base-template-styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Base" parent="android:Theme.Material.Light">
+            <item name="android:colorPrimary">@color/colorPrimary</item>
+            <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+            <item name="android:textColorPrimary">@color/textColorPrimary</item>
+    </style>
+</resources>
