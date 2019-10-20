@@ -14,16 +14,20 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button button_next = (Button) findViewById(R.id.button_next);
+//        Button button_next = findViewById(R.id.button_next);
+//
+//        button_next.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//
+//                Intent i = new Intent(getApplicationContext(), Segunda.class);
+//                startActivity(i);
+//            }
+//        });
+    }
 
-        button_next.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
+    public void somar(View view){
 
-                Intent i = new Intent(getApplicationContext(), Segunda.class);
-                startActivity(i);
-            }
-        });
     }
 }
 

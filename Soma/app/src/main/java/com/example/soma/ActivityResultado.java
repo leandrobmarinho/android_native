@@ -14,7 +14,7 @@ public class ActivityResultado extends AppCompatActivity {
         setContentView(R.layout.activity_resultado);
 
         TextView resultado;
-        resultado = (TextView) findViewById(R.id.resultView);
+        resultado = findViewById(R.id.resultView);
         Intent intent = getIntent();
         String sum = (String) intent.getSerializableExtra("Soma");
         resultado.setText(sum);
