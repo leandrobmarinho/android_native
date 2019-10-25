@@ -23,23 +23,33 @@ public class MainActivity extends AppCompatActivity {
         numero2 = findViewById(R.id.edtNumero2);
         botaoAdicionar = findViewById(R.id.btSomar);
 
-        botaoAdicionar.setOnClickListener(new AddButtonClickHandler());
+//        botaoAdicionar.setOnClickListener(new AddButtonClickHandler());
     }
 
+    public void somar(View view){
+        int num1 = Integer.parseInt(numero1.getText().toString());
+        int num2 = Integer.parseInt(numero2.getText().toString());
 
+        Intent explicitIntent = new Intent(getApplicationContext(),
+                ActivityResultado.class);
 
-    public class AddButtonClickHandler implements OnClickListener{
-        public void onClick(View view){
-            int num1 = Integer.parseInt(numero1.getText().toString());
-            int num2 = Integer.parseInt(numero2.getText().toString());
+        explicitIntent.putExtra("Soma", Integer.toString(num1 + num2));
 
-            Intent explicitIntent = new Intent(MainActivity.this,
-                    ActivityResultado.class);
-
-            explicitIntent.putExtra("Soma", (num1 + num2));
-
-            startActivity(explicitIntent);
-        }
-
+        startActivity(explicitIntent);
     }
+
+//    public class AddButtonClickHandler implements OnClickListener{
+//        public void onClick(View view){
+//            int num1 = Integer.parseInt(numero1.getText().toString());
+//            int num2 = Integer.parseInt(numero2.getText().toString());
+//
+//            Intent explicitIntent = new Intent(MainActivity.this,
+//                    ActivityResultado.class);
+//
+//            explicitIntent.putExtra("Soma", (num1 + num2));
+//
+//            startActivity(explicitIntent);
+//        }
+//
+//    }
 }
