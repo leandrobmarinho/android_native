@@ -21,8 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
         numero1 = findViewById(R.id.edtNumero1);
         numero2 = findViewById(R.id.edtNumero2);
-        botaoAdicionar = findViewById(R.id.btSomar);
 
+//        botaoAdicionar = findViewById(R.id.btSomar);
 //        botaoAdicionar.setOnClickListener(new AddButtonClickHandler());
     }
 

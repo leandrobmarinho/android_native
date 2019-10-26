@@ -12,8 +12,8 @@
         <!-- Outros componentes como checkbox -->
         <item name="colorAccent">@color/colorAccent</item>
 
-        <!-- <item name="android:colorBackground">@android:color/darker_gray</item> -->
-        <!-- <item name="android:textColor">@color/texto</item> -->
+        <item name="android:colorBackground">@android:color/darker_gray</item>
+        <item name="android:textColor">@color/texto</item>
     </style>
 
 </resources>

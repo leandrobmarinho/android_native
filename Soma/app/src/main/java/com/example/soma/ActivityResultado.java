@@ -13,10 +13,11 @@ public class ActivityResultado extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_resultado);
 
-        TextView resultado;
+        TextView resultado; // pegar componente para mostrar resultado na Tela
         resultado = findViewById(R.id.resultView);
-        Intent intent = getIntent();
-        String sum = (String) intent.getSerializableExtra("Soma");
-        resultado.setText(sum);
+
+        Intent intent = getIntent(); // recebe mensagem
+        String sum = (String) intent.getSerializableExtra("Soma"); // pega mensagem
+        resultado.setText(sum); // mostra resultado na Tela
     }
 }
