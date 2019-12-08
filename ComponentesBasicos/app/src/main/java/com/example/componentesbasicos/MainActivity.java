@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
         cbVermelho = findViewById(R.id.cbVermelho);
 
         rgEstoque = findViewById(R.id.rgEstoque);
-
         verificaRadioButton();
     }
 
