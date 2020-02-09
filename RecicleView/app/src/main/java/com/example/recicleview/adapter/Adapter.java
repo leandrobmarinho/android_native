@@ -15,6 +15,10 @@ import java.util.List;
 
 public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
 
+    public Adapter(){
+
+    }
+
     private List<Filme> listaFilmes;
     public Adapter(List<Filme> lista){
         this.listaFilmes = lista;
@@ -23,6 +27,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
     @NonNull
     @Override
     public MyViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+        // Inflando o layout
         View itemLista = LayoutInflater.from(parent.getContext()).
                 inflate(R.layout.adapter_lista, parent, false);
         return new MyViewHolder(itemLista);
@@ -50,9 +55,10 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
         public MyViewHolder(View itemView){
             super(itemView);
 
-            titulo = itemView.findViewById(R.id.textoTitulo);
-            ano = itemView.findViewById(R.id.textoAno);
-            genero = itemView.findViewById(R.id.textoGenero);
+            // Instanciando os elementos de listagem
+            titulo = itemView.findViewById(R.id.titulo);
+            ano = itemView.findViewById(R.id.ano);
+            genero = itemView.findViewById(R.id.genero);
         }
     }
 }
