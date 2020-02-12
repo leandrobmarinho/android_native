@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         // Define layout
         LinearLayoutManager layoutManager = new
                 LinearLayoutManager(getApplicationContext());
-        layoutManager.setOrientation(RecyclerView.HORIZONTAL);
+//        layoutManager.setOrientation(RecyclerView.HORIZONTAL);
 //        RecyclerView.LayoutManager layoutManager = new GridLayoutManager(this,2);
 
         recyclerView.setLayoutManager(layoutManager);
