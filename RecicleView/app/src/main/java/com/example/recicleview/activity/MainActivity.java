@@ -31,11 +31,11 @@ public class MainActivity extends AppCompatActivity {
 
         recyclerView = findViewById(R.id.recyclerView);
 
-//        // Listagem de filmes
-//        this.criarFilmes();
+        // Listagem de filmes
+        this.criarFilmes();
 
         // Configurar Adapter
-        Adapter adapter = new Adapter();
+        Adapter adapter = new Adapter(listaFilmes);
 
         // Configurar RecyclerView
         RecyclerView.LayoutManager layoutManager = new
